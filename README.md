@@ -1,4 +1,4 @@
-<h1 style="border:2px solid Tomato;">Hi there 👋</h1>
+<i><h1 style="border:2px solid Tomato;">Hi there 👋</h1><i>
 
 <!--
 **ruskdev12/ruskdev12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
